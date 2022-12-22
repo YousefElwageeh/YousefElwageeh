@@ -3,6 +3,12 @@
 -  Instructor in [futureMakers](https://www.facebook.com/Future.Makers.kids/)
 
 
+### Contact with me on
+- gmail:alwgeh26@gmail.com
+- linkedin(https://www.linkedin.com/in/yousef-elwageeh-2008b7234
+- facebook https://www.facebook.com/profile.php?id=100009439773463
+### Samples from my projects
+
 <!--
 **YousefElwageeh/YousefElwageeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
