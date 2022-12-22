@@ -4,8 +4,8 @@
 
 
 ### Contact with me on
-- gmail:alwgeh26@gmail.com
-- linkedin(https://www.linkedin.com/in/yousef-elwageeh-2008b7234
+- gmail: alwgeh26@gmail.com
+- linkedin https://www.linkedin.com/in/yousef-elwageeh-2008b7234
 - facebook https://www.facebook.com/profile.php?id=100009439773463
 ### Samples from my projects
 
