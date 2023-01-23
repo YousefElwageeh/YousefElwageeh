@@ -14,8 +14,22 @@
  
  
   [BMR Calculator]()
-  
-  [TaxiDriver(user&driver)]()
+  The BMR Calculator app is a convenient and easy-to-use tool for calculating your Basal Metabolic Rate (BMR). It uses your age, gender, height, and weight to accurately calculate your BMR. This app also provides helpful information about the importance of BMR and how it can be used to help you reach your health and fitness goals. With this app, you can easily track your progress and make sure you're getting the most out of your diet and exercise routine.
+ 
+ [TaxiDriver(user&driver)]()
+ Taxi Driver App (User):
+The Taxi Driver App is a convenient and easy-to-use mobile application
+that allows users to quickly and easily book a taxi ride. With the app,
+users can request a taxi ride with just a few taps on their smartphone.
+The app will show the user the estimated time of arrival of the taxi.
+Taxi Driver App (Driver):
+The Taxi Driver App is an essential tool for drivers who want to make
+money by providing taxi services. The app allows drivers to find and
+accept rides from customers in their area. Drivers can view customer
+requests, see estimated fares, and track their earnings in real-time.
+The app also provides drivers with helpful navigation tools such as
+turn-by-turn directions and traffic updates so they can get to their
+destination quickly and safely
 
 
 <!--
