@@ -13,8 +13,8 @@
  
  
  
-  [BMR Calculator]()
-  waiting for google play review.
+  [BMR Calculator](https://play.google.com/store/apps/details?id=com.YousefElwageeh.BMR_calculator)
+ 
 
   The BMR Calculator app is a convenient and easy-to-use tool for calculating your Basal Metabolic Rate (BMR). It uses your age, gender, height, and weight to accurately calculate your BMR. This app also provides helpful information about the importance of BMR and how it can be used to help you reach your health and fitness goals. With this app, you can easily track your progress and make sure you're getting the most out of your diet and exercise routine.
  
