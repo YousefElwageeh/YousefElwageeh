@@ -9,6 +9,7 @@
 - facebook https://www.facebook.com/profile.php?id=100009439773463
 ### Samples from my projects
  [Medical app](https://play.google.com/store/apps/details?id=com.ReineTech.Medicalstore)
+ 
  The Medical Store App is an easy-to-use mobile application that helps you find and purchase prescription medications and over-the-counter products from local pharmacies. With the app, you can easily search for medications by name or active ingredient, compare prices across different pharmacies, and securely purchase your medications online. The app also provides convenient reminders to help you stay on top of your medication refills and keep track of your order history. With the Medical Store App, getting the medications you need is easier than ever!
  
  
