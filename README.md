@@ -3,10 +3,6 @@
 -  Instructor in [futureMakers](https://www.facebook.com/Future.Makers.kids/)
 
 
-### Contact with me on
-- gmail: alwgeh26@gmail.com
-- linkedin https://www.linkedin.com/in/yousef-elwageeh-2008b7234
-- facebook https://www.facebook.com/profile.php?id=100009439773463
 ### Samples from my projects
  [Medical app](https://play.google.com/store/apps/details?id=com.ReineTech.Medicalstore)
  
@@ -35,6 +31,11 @@ The app also provides drivers with helpful navigation tools such as
 turn-by-turn directions and traffic updates so they can get to their
 destination quickly and safely
 
+
+### Contact with me on
+- gmail: alwgeh26@gmail.com
+- linkedin https://www.linkedin.com/in/yousef-elwageeh-2008b7234
+- facebook https://www.facebook.com/profile.php?id=100009439773463
 
 <!--
 **YousefElwageeh/YousefElwageeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
