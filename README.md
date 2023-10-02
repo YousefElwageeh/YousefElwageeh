@@ -9,11 +9,7 @@
  The Medical Store App is an easy-to-use mobile application that helps you find and purchase prescription medications and over-the-counter products from local pharmacies. With the app, you can easily search for medications by name or active ingredient, compare prices across different pharmacies, and securely purchase your medications online. The app also provides convenient reminders to help you stay on top of your medication refills and keep track of your order history. With the Medical Store App, getting the medications you need is easier than ever!
  
  
- 
-  [BMR Calculator](https://play.google.com/store/apps/details?id=com.YousefElwageeh.BMR_calculator)
- 
 
-  The BMR Calculator app is a convenient and easy-to-use tool for calculating your Basal Metabolic Rate (BMR). It uses your age, gender, height, and weight to accurately calculate your BMR. This app also provides helpful information about the importance of BMR and how it can be used to help you reach your health and fitness goals. With this app, you can easily track your progress and make sure you're getting the most out of your diet and exercise routine.
  
  [TaxiDriver(user&driver)](https://youtu.be/C7VtIwnSvhI) waiting for google play review
  
