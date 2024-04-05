@@ -42,7 +42,7 @@ destination quickly and safely
 [Rentv](https://play.google.com/store/apps/details?id=com.rentv) 
 RentV helps people rent out their personal vehicles to others for short-term use. Users can browse available vehicles, and book and pay for rentals through the app. Owners can list their vehicles, set rental rates, and manage bookings.
 
-[Ajman Police Club]([https://play.google.com/store/apps/details?id=com.rentv](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app)) 
+[Ajman Police Club](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app) 
 
 The Police Club for Sports and Shooting is a club that aims to improve the quality of healthy and sports life
 
