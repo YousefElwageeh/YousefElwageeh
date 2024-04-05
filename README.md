@@ -18,9 +18,17 @@
 
 
 ### Samples from my projects
+
+[Ajman Police Club](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app) 
+
+The Police Club for Sports and Shooting is a club that aims to improve the quality of healthy and sports life
+
  [Medical app](https://play.google.com/store/apps/details?id=com.ReineTech.Medicalstore)
  
  The Medical Store App is an easy-to-use mobile application that helps you find and purchase prescription medications and over-the-counter products from local pharmacies. With the app, you can easily search for medications by name or active ingredient, compare prices across different pharmacies, and securely purchase your medications online. The app also provides convenient reminders to help you stay on top of your medication refills and keep track of your order history. With the Medical Store App, getting the medications you need is easier than ever!
+
+[Rentv](https://play.google.com/store/apps/details?id=com.rentv) 
+RentV helps people rent out their personal vehicles to others for short-term use. Users can browse available vehicles, and book and pay for rentals through the app. Owners can list their vehicles, set rental rates, and manage bookings.
 
 
   [TaxiDriver(user&driver)](https://youtu.be/C7VtIwnSvhI) waiting for google play review
@@ -39,10 +47,6 @@ The app also provides drivers with helpful navigation tools such as
 turn-by-turn directions and traffic updates so they can get to their
 destination quickly and safely
 
-[Rentv](https://play.google.com/store/apps/details?id=com.rentv) 
-RentV helps people rent out their personal vehicles to others for short-term use. Users can browse available vehicles, and book and pay for rentals through the app. Owners can list their vehicles, set rental rates, and manage bookings.
 
-[Ajman Police Club](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app) 
 
-The Police Club for Sports and Shooting is a club that aims to improve the quality of healthy and sports life
 
