@@ -23,13 +23,13 @@
 
 The Police Club for Sports and Shooting is a club that aims to improve the quality of healthy and sports life
 
- [Medical app](https://play.google.com/store/apps/details?id=com.ReineTech.Medicalstore)
+ [SABEQ](https://play.google.com/store/search?q=sabeq&c=apps&hl=en)
  
- The Medical Store App is an easy-to-use mobile application that helps you find and purchase prescription medications and over-the-counter products from local pharmacies. With the app, you can easily search for medications by name or active ingredient, compare prices across different pharmacies, and securely purchase your medications online. The app also provides convenient reminders to help you stay on top of your medication refills and keep track of your order history. With the Medical Store App, getting the medications you need is easier than ever!
+ Sabeq revolutionizes the way you train, learn, and explore by introducing gamified, interactive challenges for all audiences. Whether you're a corporate trainer, an adventurer, a student, or a tourist, Sabeq offers exciting experiences tailored just for you.
 
-[Rentv](https://play.google.com/store/apps/details?id=com.rentv) 
-RentV helps people rent out their personal vehicles to others for short-term use. Users can browse available vehicles, and book and pay for rentals through the app. Owners can list their vehicles, set rental rates, and manage bookings.
-
+Features:
+- For Corporates and Trainers: Create engaging games to boost teamwork, skills, and productivity.
+- For Individuals: Enjoy thrilling adventures like scavenger hunts and interactive challenges.
 
   [TaxiDriver(user&driver)](https://youtu.be/C7VtIwnSvhI) waiting for google play review
  
