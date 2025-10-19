@@ -69,17 +69,7 @@
 > - Real-time earnings & navigation  
 > - Modern UI & Flutter-based architecture
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefelwageeh&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelwageeh&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
 
 ---
 
