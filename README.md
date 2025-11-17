@@ -18,8 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
-
-
 </div>
 
 ---
@@ -85,7 +83,28 @@ Gamified training platform with **interactive challenges** for companies and ind
 
 </td>
 </tr>
+
 <tr>
+<td width="50%">
+
+### 🏃‍♂️ Sabeq Active – Your Steps. Your Journey. Your Medal.
+
+Join virtual walking challenges from anywhere and earn real medals shipped to your door.  
+Walk at home, outdoors, or on a treadmill — **every step counts**.
+
+🌍 Routes inspired by real Arab landmarks (Hatta, Wadi Rum & more)  
+🔥 Stay active, motivated & connected  
+
+**Google Play:**  
+https://play.google.com/store/apps/details?id=com.vowalaa.sabeq_active  
+
+**App Store:**  
+https://apps.apple.com/us/app/sabeq-active/id6749004354  
+
+**Tech:** `Flutter` `Firebase` `Health APIs`
+
+</td>
+
 <td width="50%">
 
 ### 🚖 [TaxiDriver App](https://youtu.be/C7VtIwnSvhI)
@@ -99,6 +118,9 @@ Full-featured taxi solution with dual interfaces for **users** and **drivers**.
 **Status:** Under Google Play Review
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📱 More Coming Soon...
@@ -108,6 +130,7 @@ Currently working on exciting new projects that push the boundaries of mobile de
 **Stay tuned!** 🚀
 
 </td>
+<td></td>
 </tr>
 </table>
 
