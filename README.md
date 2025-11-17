@@ -50,10 +50,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -62,20 +58,30 @@
 <tr>
 <td width="50%">
 
-### 🎯 [Ajman Police Club](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app)
+### 🎯 Ajman Police Club
 
 A comprehensive sports and shooting club app.
-(Available on Google Play & App Store)
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app">
+<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+</p>
 
 **Tech:** `Flutter` `Firebase` `REST APIs`
 
 </td>
 <td width="50%">
 
-### 🧩 [SABEQ](https://play.google.com/store/search?q=sabeq&c=apps&hl=en)
+### 🧩 SABEQ
 
 Gamified training platform with interactive challenges.
-(Available on Google Play & App Store)
+
+<p align="center">
+<a href="https://play.google.com/store/search?q=sabeq&c=apps&hl=en">
+<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+</p>
 
 **Tech:** `Flutter` `Gamification` `Cloud Services`
 
@@ -85,10 +91,18 @@ Gamified training platform with interactive challenges.
 <tr>
 <td width="50%">
 
-### 🏃‍♂️ [Sabeq Active](https://play.google.com/store/apps/details?id=com.vowalaa.sabeq_active)
+### 🏃‍♂️ Sabeq Active
 
-Virtual walking challenges with real medals delivered to users.  
-(Available on Google Play & App Store)
+Virtual walking challenges with real medals.
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.vowalaa.sabeq_active">
+<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+<a href="https://apps.apple.com/us/app/sabeq-active/id6749004354">
+<img src="https://img.shields.io/badge/App_Store-0D6EFD?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+</p>
 
 **Tech:** `Flutter` `Firebase` `Health APIs`
 
@@ -96,9 +110,15 @@ Virtual walking challenges with real medals delivered to users.
 
 <td width="50%">
 
-### 🚖 [TaxiDriver App](https://youtu.be/C7VtIwnSvhI)
+### 🚖 TaxiDriver App
 
 Taxi solution with real-time tracking and driver features.
+
+<p align="center">
+<a href="https://youtu.be/C7VtIwnSvhI">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</p>
 
 **Status:** Under Review
 
