@@ -65,6 +65,7 @@
 ### 🎯 [Ajman Police Club](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app)
 
 A comprehensive sports and shooting club app.
+(Available on Google Play & App Store)
 
 **Tech:** `Flutter` `Firebase` `REST APIs`
 
@@ -74,6 +75,7 @@ A comprehensive sports and shooting club app.
 ### 🧩 [SABEQ](https://play.google.com/store/search?q=sabeq&c=apps&hl=en)
 
 Gamified training platform with interactive challenges.
+(Available on Google Play & App Store)
 
 **Tech:** `Flutter` `Gamification` `Cloud Services`
 
