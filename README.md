@@ -64,7 +64,7 @@
 
 ### 🎯 [Ajman Police Club](https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app)
 
-A comprehensive sports and shooting club application promoting **healthy living** and **community engagement**.
+A comprehensive sports and shooting club app.
 
 **Tech:** `Flutter` `Firebase` `REST APIs`
 
@@ -73,11 +73,7 @@ A comprehensive sports and shooting club application promoting **healthy living*
 
 ### 🧩 [SABEQ](https://play.google.com/store/search?q=sabeq&c=apps&hl=en)
 
-Gamified training platform with **interactive challenges** for companies and individuals.
-
-✨ Corporate team-building games  
-✨ Scavenger hunts & quests  
-✨ Personalized learning paths
+Gamified training platform with interactive challenges.
 
 **Tech:** `Flutter` `Gamification` `Cloud Services`
 
@@ -87,19 +83,10 @@ Gamified training platform with **interactive challenges** for companies and ind
 <tr>
 <td width="50%">
 
-### 🏃‍♂️ Sabeq Active – Your Steps. Your Journey. Your Medal.
+### 🏃‍♂️ [Sabeq Active](https://play.google.com/store/apps/details?id=com.vowalaa.sabeq_active)
 
-Join virtual walking challenges from anywhere and earn real medals shipped to your door.  
-Walk at home, outdoors, or on a treadmill — **every step counts**.
-
-🌍 Routes inspired by real Arab landmarks (Hatta, Wadi Rum & more)  
-🔥 Stay active, motivated & connected  
-
-**Google Play:**  
-https://play.google.com/store/apps/details?id=com.vowalaa.sabeq_active  
-
-**App Store:**  
-https://apps.apple.com/us/app/sabeq-active/id6749004354  
+Virtual walking challenges with real medals delivered to users.  
+(Available on Google Play & App Store)
 
 **Tech:** `Flutter` `Firebase` `Health APIs`
 
@@ -109,13 +96,9 @@ https://apps.apple.com/us/app/sabeq-active/id6749004354
 
 ### 🚖 [TaxiDriver App](https://youtu.be/C7VtIwnSvhI)
 
-Full-featured taxi solution with dual interfaces for **users** and **drivers**.
+Taxi solution with real-time tracking and driver features.
 
-🔥 Live tracking & navigation  
-🔥 Real-time earnings dashboard  
-🔥 Modern, intuitive UI
-
-**Status:** Under Google Play Review
+**Status:** Under Review
 
 </td>
 </tr>
@@ -125,9 +108,7 @@ Full-featured taxi solution with dual interfaces for **users** and **drivers**.
 
 ### 📱 More Coming Soon...
 
-Currently working on exciting new projects that push the boundaries of mobile development.
-
-**Stay tuned!** 🚀
+Exciting new projects in development.
 
 </td>
 <td></td>
