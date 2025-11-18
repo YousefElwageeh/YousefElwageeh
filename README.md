@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2196F3?style=for-the-badge)]([https://yousefelwageeh.vercel.app/](https://yousefelwageeh.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2196F3?style=for-the-badge)](https://yousefelwageeh.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge)](https://drive.google.com/file/d/1AIv9Oy0695rCxpYkZkMeG66wHSJ4a6PZ/view?usp=sharing)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:alwgeh26@gmail.com)
 
