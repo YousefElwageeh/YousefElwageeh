@@ -146,7 +146,7 @@ Exciting new projects in development.
 
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -161,7 +161,7 @@ Exciting new projects in development.
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ### 💭 _"Code with purpose, design with passion."_
