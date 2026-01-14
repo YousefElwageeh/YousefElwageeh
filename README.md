@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2196F3?style=for-the-badge)](https://yousefelwageeh.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge)](https://drive.google.com/drive/folders/19cKzFQpaAuWGTac1IfJSSpnEqFlt8LFQ)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge)](https://drive.google.com/file/d/1f2Hnbx1ZA4V8P4rPwKDs22wjYekIMnJS/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:alwgeh26@gmail.com)
 
 **💼 Currently Building at** [**Vowalaa**](https://www.vowalaa.com/)
