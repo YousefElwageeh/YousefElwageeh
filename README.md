@@ -93,7 +93,7 @@ A smart learning platform offering structured courses, interactive exams, and re
 </p>
 
 **Highlights:** `E-Learning` `Exams System` `Progress Tracking` `Arabic UX`  
-**Tech:** `Flutter` `Firebase` `API Integration`
+**Tech:** `Flutter`  `API Integration` `flavors`
 
 </td>
 </tr>
