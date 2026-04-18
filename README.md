@@ -56,6 +56,48 @@
 <table>
 <tr>
 <td width="50%">
+<tr>
+<td width="50%">
+
+### 🏢 Arkan
+
+Field-first construction management app built for engineers and project teams, enabling full workflow execution even without internet.
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.arkan.mobile">
+<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+<a href="https://apps.apple.com/us/app/arkancs/id6759556583">
+<img src="https://img.shields.io/badge/App_Store-0D6EFD?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+</p>
+
+**Highlights:** `Offline-First` `Drawings Management` `Inspections System` `Real-time Sync`  
+**Tech:** `Flutter` `REST APIs` `Local Storage`
+
+</td>
+
+<td width="50%">
+
+### ⚡ Quanta
+
+A smart learning platform offering structured courses, interactive exams, and real-time progress tracking for Arabic-speaking students.
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.quanta.quanta">
+<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+<a href="https://apps.apple.com/us/app/quanta/id6753364185">
+<img src="https://img.shields.io/badge/App_Store-0D6EFD?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+</p>
+
+**Highlights:** `E-Learning` `Exams System` `Progress Tracking` `Arabic UX`  
+**Tech:** `Flutter` `Firebase` `API Integration`
+
+</td>
+</tr>
+
 
 ### 🎯 Ajman Police Club
 
