@@ -93,7 +93,7 @@ A smart learning platform offering structured courses, interactive exams, and re
 </p>
 
 **Highlights:** `E-Learning` `Exams System` `Progress Tracking` `Arabic UX`  
-**Tech:** `Flutter`  `API Integration` `flavors`
+**Tech:** `Flutter` `Firebase` `API Integration`
 
 </td>
 </tr>
@@ -211,3 +211,11 @@ Exciting new projects in development.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+i want to add another 2 projects this the link for ggole play and app store 
+https://play.google.com/store/apps/details?id=com.arkan.mobile
+https://apps.apple.com/us/app/arkancs/id6759556583
+
+https://play.google.com/store/apps/details?id=com.quanta.quanta
+https://apps.apple.com/us/app/quanta/id6753364185
