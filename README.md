@@ -49,41 +49,26 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🎓 Quanta - Your Complete Learning Platform
 
-<table>
-<tr>
-<td width="50%">
-<tr>
-<td width="50%">
+Quanta is a structured learning platform that combines modern technology with high-quality educational content to support students through every stage of their academic journey.
 
-### 🏢 Arkan
+**Key Features**
+- Comprehensive course library across multiple subjects and specializations
+- Interactive exams with instant results and detailed feedback
+- Arabic-first user experience designed for Arabic-speaking learners
+- Smart reminders, completion certificates, and study-anytime access
+- Personal dashboard with performance analytics and learning history
+- Secure data handling, encrypted payments, and continuous support
 
-Field-first construction management app built for engineers and project teams, enabling full workflow execution even without internet.
-
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.arkan.mobile">
-<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a>
-<a href="https://apps.apple.com/us/app/arkancs/id6759556583">
-<img src="https://img.shields.io/badge/App_Store-0D6EFD?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
-</p>
-
-**Highlights:** `Offline-First` `Drawings Management` `Inspections System` `Real-time Sync`  
-**Tech:** `Flutter` `REST APIs` `Local Storage`
-
-</td>
-
-<td width="50%">
-
-### ⚡ Quanta
-
-A smart learning platform offering structured courses, interactive exams, and real-time progress tracking for Arabic-speaking students.
-
-<p align="center">
+<p>
 <a href="https://play.google.com/store/apps/details?id=com.quanta.quanta">
 <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a>
@@ -92,18 +77,38 @@ A smart learning platform offering structured courses, interactive exams, and re
 </a>
 </p>
 
-**Highlights:** `E-Learning` `Exams System` `Progress Tracking` `Arabic UX`  
-**Tech:** `Flutter` `Firebase` `API Integration`
+**Highlights:** `E-Learning` `Assessment System` `Progress Tracking` `Arabic UX`  
+**Tech:** `Flutter` `flavors` `API Integration`
 
-</td>
-</tr>
+### 🏗️ Arkan - Field-First Construction Companion
 
+Arkan is built for site engineers, foremen, and project managers who need reliable tools on construction sites, with full offline support and seamless sync when connectivity returns.
+
+**Key Features**
+- Offline-first workflow for drawings, tasks, and inspections
+- Full-resolution PDF drawings viewer with zoom, navigation, and issue pinning
+- Structured tasks and inspections with templates, checklists, signatures, and photo attachments
+- Organized files and documents with offline availability controls
+- Notification center, project activity feed, and clear sync status indicators
+- Secure authentication, project switching, and role-aware team views
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.arkan.mobile">
+<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+<a href="https://apps.apple.com/us/app/arkancs/id6759556583">
+<img src="https://img.shields.io/badge/App_Store-0D6EFD?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+</p>
+
+**Highlights:** `Offline-First` `Drawings Viewer` `Tasks & Inspections` `Project Sync`  
+**Tech:** `Flutter` `REST APIs` `Local Storage`
 
 ### 🎯 Ajman Police Club
 
-A comprehensive sports and shooting club app.
+The Police Club for Sports and Shooting is a club that aims to improve the quality of healthy and sports life.
 
-<p align="center">
+<p>
 <a href="https://play.google.com/store/apps/details?id=com.vowalaa.ajman_app">
 <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a>
@@ -114,14 +119,24 @@ A comprehensive sports and shooting club app.
 
 **Tech:** `Flutter` `Firebase` `REST APIs`
 
-</td>
-<td width="50%">
-
 ### 🧩 SABEQ
 
-Gamified training platform with interactive challenges.
+Sabeq revolutionizes the way you train, learn, and explore by introducing gamified, interactive challenges for all audiences. Whether you're a corporate trainer, an adventurer, a student, or a tourist, Sabeq offers exciting experiences tailored just for you.
 
-<p align="center">
+**Features:**
+- For corporates and trainers: create engaging games to boost teamwork, skills, and productivity.
+- For individuals: enjoy thrilling adventures like scavenger hunts and interactive challenges.
+- For schools: make learning fun with gamified educational activities for students.
+- For tourists: discover cities through fun, interactive exploration games.
+
+**What Makes Sabeq Unique?**
+- Various challenge types, including trivia, photos, videos, GPS, QR codes, races, and more.
+- Advanced options such as timed challenges, location-based tasks, and customizable rules.
+- Analytics and leaderboards to track performance and encourage friendly competition.
+
+Start your journey today with Sabeq and turn every experience into a fun and rewarding adventure.
+
+<p>
 <a href="https://play.google.com/store/search?q=sabeq&c=apps&hl=en">
 <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a>
@@ -132,17 +147,22 @@ Gamified training platform with interactive challenges.
 
 **Tech:** `Flutter` `Gamification` `Cloud Services`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 🏃‍♂️ Sabeq Active
 
-Virtual walking challenges with real medals.
+**Sabeq Active - Your Steps. Your Journey. Your Medal.**
 
-<p align="center">
+Join virtual walking challenges from anywhere and earn real medals shipped to your door. Whether you're walking at home, outdoors, or on a treadmill, every step counts.
+
+Explore routes inspired by real Arab landmarks like Hatta, Wadi Rum, and more. Stay active, motivated, and connected to a fitness-loving community.
+
+- Virtual challenges you can complete at your own pace
+- Real medals delivered to your home
+- Track your progress and celebrate every milestone
+- Walk solo or with friends
+
+Download Sabeq Active and start walking toward your next achievement.
+
+<p>
 <a href="https://play.google.com/store/apps/details?id=com.vowalaa.sabeq_active">
 <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a>
@@ -153,15 +173,11 @@ Virtual walking challenges with real medals.
 
 **Tech:** `Flutter` `Firebase` `Health APIs`
 
-</td>
-
-<td width="50%">
-
 ### 🚖 TaxiDriver App
 
 Taxi solution with real-time tracking and driver features.
 
-<p align="center">
+<p>
 <a href="https://youtu.be/C7VtIwnSvhI">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
@@ -169,22 +185,9 @@ Taxi solution with real-time tracking and driver features.
 
 **Status:** Under Review
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 📱 More Coming Soon...
 
 Exciting new projects in development.
-
-</td>
-<td></td>
-</tr>
-</table>
-
-</div>
 
 
 ---
@@ -213,9 +216,3 @@ Exciting new projects in development.
 </div>
 
 
-i want to add another 2 projects this the link for ggole play and app store 
-https://play.google.com/store/apps/details?id=com.arkan.mobile
-https://apps.apple.com/us/app/arkancs/id6759556583
-
-https://play.google.com/store/apps/details?id=com.quanta.quanta
-https://apps.apple.com/us/app/quanta/id6753364185
